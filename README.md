@@ -30,10 +30,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,dart,python,c" />
+    <img src="https://skillicons.dev/icons?i=java,dart,python,c,firebase,mysql,aws,docker" />
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=Spring,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=spring,flutter,html,css,bootstrap,vscode,github,figma,git,hibernate" />
     <br>
 </div>
 
